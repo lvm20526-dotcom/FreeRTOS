@@ -1,0 +1,23 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# VS Code (giữ lại extensions.json)
+.vscode/*
+!.vscode/extensions.json
+
+# Build output
+*.bin
+*.elf
+*.map
+*.o
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+*.swp
+*~
